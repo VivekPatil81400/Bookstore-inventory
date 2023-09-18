@@ -18,11 +18,3 @@ validate its checksum, 24, as follows:
 **Clone the repository:** git clone https://github.com/VivekPatil81400/Django-CRM.git
 
 **Install dependencies:** pip install -r requirements.txt
-
-**Migrate the database:** python manage.py migrate
-
-**Create a superuser:** python manage.py createsuperuser
-
-**Run the development server:** python manage.py runserver
-
-The store app should now be accessible at http://localhost:8000.
