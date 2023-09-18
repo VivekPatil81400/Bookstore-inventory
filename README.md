@@ -15,6 +15,6 @@ finally, by computing the modulo 97 of that sum. For instance, for the CIN 1700 
 validate its checksum, 24, as follows:
 (1*1 + 2*7 + 3*0 + 4*0 + 5*0 + 6*3 + 7*7 + 8*2 + 9*2 + 10*1 + 11*4 + 12*4) % 97 = 24
 
-**Clone the repository:** git clone https://github.com/VivekPatil81400/Django-CRM.git
+**Clone the repository:** git clone https://github.com/VivekPatil81400/Bookstore-inventory.git
 
 **Install dependencies:** pip install -r requirements.txt
